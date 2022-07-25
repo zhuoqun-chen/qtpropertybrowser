@@ -1,0 +1,9 @@
+# Visual Studio 2019
+.vs/*
+out/*
+
+#Qt Creator
+CMakeLists.txt.user
+
+# VS Code
+.vscode/*
